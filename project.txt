@@ -3,3 +3,5 @@ Jane is a Data Scientist and Samit is a Statistician.
 
 We'll need to determine who is responsible for what in our project.
 We may need to bring a third person on to this project.
+They may need to be competent in Python and R.
+Matplotlib and version control skills will also be useful.
